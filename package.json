@@ -1,0 +1,11 @@
+{
+  "name": "limited_nlp",
+  "version": "1.0.0",
+  "description": "A lite, basic and limited nlp for the task of creating file or folder",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Loki",
+  "license": "ISC"
+}
